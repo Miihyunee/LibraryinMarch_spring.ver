@@ -118,10 +118,50 @@
 <br>
 
 #### 사용자 화면 <도서관 홈페이지>
-![매출](https://github.com/Miihyunee/CafeManagement/assets/151993240/a0f41ccb-cc85-48c7-8cee-25faa2ec7a5b)
+   - 도서검색 자동완성 기능
+<br>
 
-![매출2](https://github.com/Miihyunee/CafeManagement/assets/151993240/31d64b66-b10e-401c-a1cf-d9084ef4f76b)
+![자동완성](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/d19cdaeb-63b9-47de-b2e5-4f2f4f4df73c)
 
+<br>
+   - 비밀번호 찾기
+<br>
+
+![비밀번호찾기](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/79924394-6da4-45dd-ad5c-6fdfc5298a54)
+
+<br>
+   - 회원정보 수정
+<br>
+
+![회원정보수정](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/536b9c31-70f8-40d3-b752-fd837679369a)
+
+<br>
+   - 연장불가 기능
+<br>
+     : 연체 중일 시 연장기능 이용할 수 없음
+<br>
+
+![연체중연장불가](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/3e365e49-cf6a-48b3-b3f7-d9ea6ba5b751)
+
+<br>
+   - 희망도서 신청
+<br>
+
+![희망도서](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/17aba026-1ef9-4ffc-aad0-b325dd0d5b58)
+
+<br>
+   - 나의 서재 > 희망도서 신청 내역
+<br>
+
+![희망도서신청내역](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/69ecc951-78e2-4386-b002-da52754cade2)
+
+<br>
+   - 예약 신청
+<br>
+
+![예약신청](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/64a40a6b-0e23-43c1-8867-d8e09ddef278)
+
+![예약신청내역](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/8683eaa3-cdbb-4372-b400-7d50428271ed)
 
 <br><br>
 
