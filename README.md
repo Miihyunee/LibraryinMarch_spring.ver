@@ -90,10 +90,30 @@
 <br><br>
 
 ## 3. 페이지 기능 안내
+※ 기존 프로젝트 내용 제외하고 스프링 전환 작업 내용만 작성
 #### 관리자 화면 <통합관리시스템>
-![메인](https://github.com/Miihyunee/CafeManagement/assets/151993240/4921ab99-0838-48aa-a651-23780d4722ec)
+   - 도서 등록
+<br>
 
-![메인2](https://github.com/Miihyunee/CafeManagement/assets/151993240/a3e70056-8841-4d46-9a93-6858c4294b2c)
+![도서등록](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/305faab6-28c9-4146-86e0-15150c05c288)
+
+<br>
+   - 도서목록/수정
+<br>
+
+![도서목록수정](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/a66614b0-cd2b-4add-9c14-32ebea121ac4)
+
+<br>
+   - NEW) 도서 분류 등록
+<br>
+
+![신규)분류등록](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/7cd53228-8c98-44a9-9914-cf9269135d41)
+
+<br>
+   - 회원정보
+<br>
+
+![회원정보](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/ca4452db-2f60-46d3-9d6b-1e663b186552)
 
 <br>
 
