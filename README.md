@@ -1,4 +1,4 @@
-# 📚 3월 도서관 (2nd Team Project) - Spring 전환
+![usecase](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/87a8e3e9-eb80-4a34-8abf-03d0d456888f)# 📚 3월 도서관 (2nd Team Project) - Spring 전환
 
 국비지원 훈련과정 두번째 팀프로젝트 스프링으로 전환한 소스코드 입니다.
 
@@ -62,28 +62,30 @@
 
 ## 2. 프로그램 구조
 ### 🔹 ER Diagram
-![erDiagram](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/4ce6cca0-29a9-4622-9053-7c1650431234)
+![erDiagram](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/67127cc6-8b68-4e02-ad19-9ebb41ecbaf0)
 
 <br>
 
 ### 🔹 View
-![view](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/a5d8b2cf-63eb-4e81-b617-1d63277b5ef6)
+![view](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/38f37aef-6ff5-4446-b3fd-f9a097a9e798)
 
 <br>
 
 ### 🔹 Usecase Diagram
-![usecase](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/231b4dd7-0193-42ab-857f-9368f744c1dd)
+![usecase](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/f19f63de-0fc1-4b25-9181-8329c2c2ce5a)
+
 
 <br>
 
 ### 🔹 Flow Chart
  - 관리자 
-![flow_admin](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/6850b5c1-19c7-42dc-a5aa-039ad6ceb444)
+![flowChart-admin](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/4e96b359-6f0c-43dd-9a5c-e158e59739d2)
 
 <br>
 
  - 사용자(회원/비회원)
-![flow-user](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/8c42ac33-d93d-418c-9c4a-ea3b85f6611e)
+![flowChart-User](https://github.com/Miihyunee/LibraryinMarch_spring.ver/assets/151993240/8f344b7b-e329-4204-aa41-d7ef2ba674a1)
+
 
 <br><br>
 
